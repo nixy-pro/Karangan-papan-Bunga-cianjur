@@ -11,12 +11,10 @@
 </head>
 <body>
     <header style="background-color: red; color: white; text-align: center; padding: 20px;">
-        <h1>Karangan Papan Bunga Cianjur</h1>
-        <h2>Alyssa Florist</h2>
+        <h1>TOKO BUNGA ALYSSA FLORIST</h1>
     </header>
     <main>
         <section>
-            <h3>Galeri Papan Bunga</h3>
             <div class="gallery">
                 <img src="https://www.alyssaflorist.com/papan-bunga/random/1.png" alt="Papan Bunga 1" style="width: 200px; height: auto;">
                 <img src="https://www.alyssaflorist.com/papan-bunga/random/2.png" alt="Papan Bunga 2" style="width: 200px; height: auto;">
